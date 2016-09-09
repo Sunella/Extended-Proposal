@@ -1,0 +1,178 @@
+
+\input{docs/preamble}
+\author{K.J.S. Fernando}
+\title{User Driven Model for Better Privacy Protection in Android Applications}
+\date{April, 2016}
+
+\newcommand{\namesigdate}[2][5cm]{%
+  \begin{tabular}{@{}p{#1}@{}}
+    #2 \\[2\normalbaselineskip] \hrule \\[0pt]
+    {\small \textit{Signature}} \\[2\normalbaselineskip] \hrule \\[0pt]
+    {\small \textit{Date}}
+  \end{tabular}
+}
+\begin{document}
+\frontmatter
+\begin{titlepage}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+
+\center % Center everything on the page
+ 
+%----------------------------------------------------------------------------------------
+%	HEADING SECTIONS
+%----------------------------------------------------------------------------------------
+
+\textsc{\LARGE University of Colombo School of Computing}\\[1.5cm] % Name of your university/college
+\textsc{\Large SCS4124 - Final Year Project in Computer Science}\\[0.5cm] % Major heading such as course name
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\HRule \\[0.7cm]
+{ \huge \bfseries User Driven Model for Better Privacy Protection in Android Applications}\\[0.7cm] % Title of your document
+\HRule \\[9cm]
+
+
+%----------------------------------------------------------------------------------------
+%	AUTHOR SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Researcher:}\\
+K.J.S. \textsc{Fernando}\\ % Your name
+\emph{Index Number:}\\
+12000434
+\end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+Dr. Kasun \textsc{de Zoysa}\\ % Supervisor's Name
+\emph{Co-supervisor:} \\
+Mr. Primal \textsc{Wijesekara}
+\end{flushright}
+\end{minipage}\\[2cm]
+
+
+{\large (Original Title: Towards an Improved Permission Architecture for Android Applications)}
+\\
+%----------------------------------------------------------------------------------------
+%	DATE SECTION
+%----------------------------------------------------------------------------------------
+{\large 09.09.2016} % Date, change the \today to a set date if you want to be precise
+
+
+\vfill % Fill the rest of the page with whitespace
+
+\end{titlepage}
+
+
+\chapter*{Preface}
+
+\par This document contains the Extended Project Proposal to be submitted to the University of Colombo School of Computing as a requirement of the subject SCS4124: Final Year Project in Computer Science. It includes an outline of the research question, problem statement in brief, goals and objectives of undertaking the research, methodology to be followed, the scope and delimitations of the project, project timeline, literature review, and a discussion of preliminary results. \\\\\\\\\\\\
+
+\subsection*{Signatures:} \label{subsec:signatures}
+\paragraph{\\}
+\noindent \namesigdate{K.J.S. Fernando} \hfill \namesigdate[5cm]{Dr. Kasun de Zoysa}
+
+\tableofcontents
+
+\mainmatter
+% The \input{} command reads and processes the indicated example.tex file. Note that docs/ locates the folder where the .tex file is stored.
+\input{docs/introduction}
+\input{docs/litreview}
+\chapter*{Appendix 01 - Normal and Dangerous Permissions}
+\addcontentsline{toc}{chapter}{Appendix 01 - Normal and Dangerous Permissions}
+\addcontentsline{toc}{section}{Normal Permissions}
+\addcontentsline{toc}{section}{Dangerous Permissions}
+\section*{Normal Permissions}
+\begin{itemize}
+\item[] ACESS\_LOCATION\_EXTRA\_COMMANDS
+\item[] ACCESS\_NETWORK\_STATE
+\item[] ACCESS\_NOTIFICATION\_POLICY
+\item[] ACCESS\_WIFI\_STATE
+\item[] BLUETOOTH
+\item[] BLUETOOTH\_ADMIN
+\item[] BROADCAST\_STICKY
+\item[] CHANGE\_NETWORK\_STATE
+\item[] CHANGE\_WIFI\_MULTICAST\_STATE
+\item[] CHANGE\_WIFI\_STATE
+\item[] DISABLE\_KEYGUARD
+\item[] EXPAND\_STATUS\_BAR
+\item[] GET\_PACKAGE\_SIZE
+\item[] INSTALL\_SHORTCUT
+\item[] INTERNET 
+\item[] KILL\_BACKGROUND\_PROCESSES
+\item[] MODIFY\_AUDIO\_SETTINGS
+\item[] NFC
+\item[] READ\_SYNC\_SETTINGS
+\item[] READ\_SYNC\_STATS
+\item[] RECEIVE\_BOOT\_COMPLETED
+\item[] REORDER\_TASKS
+\item[] REQUEST\_IGNORE\_BATTERY\_OPTIMIZATIONS
+\item[] REQUEST\_INSTALL\_PACKAGES
+\item[] SET\_ALARM
+\item[] SET\_TIME\_ZONE
+\item[] SET\_WALLPAPER
+\item[] SET\_WALLPAPER\_HINTS
+\item[] TRANSMIT\_IR
+\item[] UNINSTALL\_SHORTCUT
+\item[] USE\_FINGERPRINT
+\item[] VIBRATE
+\item[] WAKE\_LOCK
+\item[] WRITE\_SYNC\_SETTINGS
+\end{itemize}
+
+\section*{Dangerous Permissions}
+\begin{itemize}
+\item[] READ\_CALENDAR
+\item[] WRITE\_CALENDAR
+\item[] CAMERA
+\item[] READ\_CONTACTS
+\item[] WRITE\_CONTACTS
+\item[] GET\_ACCOUNTS
+\item[] ACCESS\_FINE\_LOCATION
+\item[] ACCESS\_COARSE\_LOCATION
+\item[] RECORD\_AUDIO
+\item[] READ\_PHONE\_STATE
+\item[] CALL\_PHONE
+\item[] READ\_CALL\_LOG
+\item[] WRITE\_CALL\_LOG
+\item[] ADD\_VOICEMAIL
+\item[] USE\_SIP
+\item[] PROCESS\_OUTGOING\_CALLS
+\item[] BODY\_SENSORS
+\item[] SEND\_SMS
+\item[] RECEIVE\_SMS
+\item[] READ\_SMS
+\item[] RECEIVE\_WAP\_PUSH
+\item[] RECEIVE\_MMS
+\item[] READ\_EXTERNAL\_STORAGE
+\item[] WRITE\_EXTERNAL\_STORAGE
+\end{itemize}
+
+\chapter*{Appendix 02 - Sample Questions}
+\addcontentsline{toc}{chapter}{Appendix 02 - Survey Questions}
+\begin{itemize}
+\item[] You are listening to music on your phone. Google services requests to access your stored messages.(Google services is not running visibly when the permission is requested)
+\item[] You are using Google Play on your phone while YouTube is running in the background. YouTube asks for your WIFI\_STATE which can be used to infer your location. 
+\item[] You are using Google Play on your phone while Facebook is running in the background. Facebook queries your location.
+\item[] You are using the web browser on your device. It asks for your WIFI\_STATE which could be used to infer your location. 
+\item[] You are using Google Play on your phone. Instagram asks for your location. (Instagram is not running visibly when the permission is requested) 
+\item[] You are using Google Search on your device. The Yahoo Mail application asks for your WIFI\_STATE which could be used to infer your location. 
+\item[] You are using Google Chrome on your mobile device. The Avast Antivirus application accesses your browsing history. 
+\item[] You are not using your device. It is switched on and Google Play is the application running in the background. It asks for your location. 
+\item[] You are not using your device. It is switched on but no apps are running visibly. Your weather application asks for your location.
+\item[] You are using Google Play on your device. The TrueCaller application accesses your call history. 
+\item[] You are using Google Search on your device. Your messaging application sends a sms.
+\item[] You are using your device, but no specific apps are running. Android.Contacts application accesses your location. 
+\end{itemize}
+
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{plain}
+\bibliography{refs/references}
+
+\end{document}

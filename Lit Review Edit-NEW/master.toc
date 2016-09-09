@@ -1,0 +1,44 @@
+\contentsline {paragraph}{\\}{ii}{section*.3}
+\contentsline {chapter}{\numberline {1}Section One}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Problem Background}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Problem Statement}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Privacy and Security}{2}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Permission Issues Before Android 6.0}{3}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Context of Permission Requests}{3}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Problem in Summary}{4}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}Research Question}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Research Goal}{5}{section.1.5}
+\contentsline {section}{\numberline {1.6}Scope and Delimitations}{5}{section.1.6}
+\contentsline {section}{\numberline {1.7}Research Approach}{5}{section.1.7}
+\contentsline {section}{\numberline {1.8}Project Timeline}{6}{section.1.8}
+\contentsline {chapter}{\numberline {2}Section Two}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Literature Review}{7}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Android Permission Model}{7}{subsection.2.1.1}
+\contentsline {subsubsection}{Comparison of Application Approval Process}{7}{section*.6}
+\contentsline {subsubsection}{Application Security and Privacy}{8}{section*.7}
+\contentsline {subsubsection}{Installing Applications}{9}{section*.9}
+\contentsline {subsubsection}{Before Android Marshmallow}{9}{section*.10}
+\contentsline {subsubsection}{After Android Marshmallow}{10}{section*.12}
+\contentsline {subsection}{\numberline {2.1.2}Problems with the existing system}{11}{subsection.2.1.2}
+\contentsline {subsubsection}{Least Privilege}{11}{section*.14}
+\contentsline {subsubsection}{Capability Leaks}{12}{section*.15}
+\contentsline {subsubsection}{Data Availability After Uninstallation}{12}{section*.16}
+\contentsline {subsubsection}{Permission Creep}{12}{section*.17}
+\contentsline {subsection}{\numberline {2.1.3}Proposed Solutions}{13}{subsection.2.1.3}
+\contentsline {subsubsection}{Facilitating Informed Decisions}{13}{section*.18}
+\contentsline {subsubsection}{Code Analysis to Curb Permission Creep}{14}{section*.19}
+\contentsline {subsection}{\numberline {2.1.4}Transitivity of Trust}{14}{subsection.2.1.4}
+\contentsline {subsubsection}{Defining "Trust"}{14}{section*.20}
+\contentsline {subsubsection}{Definition of "Trust" in Computer Science}{15}{section*.21}
+\contentsline {subsubsection}{Decentralization of Trust}{16}{section*.22}
+\contentsline {subsubsection}{Application of Referral Trust in Other Systems}{16}{section*.23}
+\contentsline {subsubsection}{Trust in Peer Networks}{17}{section*.24}
+\contentsline {subsubsection}{Example: PageRank as a Web of Trust}{17}{section*.25}
+\contentsline {section}{\numberline {2.2}Research Design}{18}{section.2.2}
+\contentsline {section}{\numberline {2.3}Preliminary Results and Discussion}{18}{section.2.3}
+\contentsline {chapter}{Appendix 01 - Normal and Dangerous Permissions}{22}{chapter*.29}
+\contentsline {section}{Normal Permissions}{22}{section*.30}
+\contentsline {section}{Dangerous Permissions}{22}{section*.30}
+\contentsline {chapter}{Appendix 02 - Survey Questions}{25}{chapter*.33}
+\contentsline {chapter}{References}{25}{chapter*.33}

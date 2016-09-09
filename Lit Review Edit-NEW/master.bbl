@@ -1,0 +1,434 @@
+\begin{thebibliography}{10}
+
+\bibitem{a}
+The android open source project.
+\newblock \url{https://source.android.com/}.
+
+\bibitem{h}
+Patterns: Permissions.
+\newblock \url{https://www.google.com/design/spec/patterns/permissions.html#}.
+
+\bibitem{b}
+Market share statistics for internet technologies; mobile/tablet operating
+  system market share.
+\newblock
+  \url{https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8&qpcustomd=1},
+  2016.
+
+\bibitem{abdul1997using}
+Alfarez Abdul-Rahman and Stephen Hailes.
+\newblock Using recommendations for managing trust in distributed systems.
+\newblock In {\em Proceedings IEEE Malaysia International Conference on
+  Communication}, volume~97. Citeseer, 1997.
+
+\bibitem{almohri2014droidbarrier}
+Hussain~MJ Almohri, Danfeng~Daphne Yao, and Dennis Kafura.
+\newblock Droidbarrier: Know what is executing on your android.
+\newblock In {\em Proceedings of the 4th ACM conference on Data and application
+  security and privacy}, pages 257--264. ACM, 2014.
+
+\bibitem{androidyearinreview}
+AOSP.
+\newblock Android security 2015 year in review - android open source project.
+\newblock
+  \url{https://static.googleusercontent.com/media/source.android.com/en//security/reports/Google_Android_Security_2015_Report_Final.pdf}.
+
+\bibitem{diagrameka}
+AOSP.
+\newblock Security program overview.
+\newblock \url{https://source.android.com/security/}.
+
+\bibitem{artz2007survey}
+Donovan Artz and Yolanda Gil.
+\newblock A survey of trust in computer science and the semantic web.
+\newblock {\em Web Semantics: Science, Services and Agents on the World Wide
+  Web}, 5(2):58--71, 2007.
+
+\bibitem{arzt2014flowdroid}
+Steven Arzt, Siegfried Rasthofer, Christian Fritz, Eric Bodden, Alexandre
+  Bartel, Jacques Klein, Yves Le~Traon, Damien Octeau, and Patrick McDaniel.
+\newblock Flowdroid: Precise context, flow, field, object-sensitive and
+  lifecycle-aware taint analysis for android apps.
+\newblock In {\em ACM SIGPLAN Notices}, volume~49, pages 259--269. ACM, 2014.
+
+\bibitem{au2012pscout}
+Kathy Wain~Yee Au, Yi~Fan Zhou, Zhen Huang, and David Lie.
+\newblock Pscout: analyzing the android permission specification.
+\newblock In {\em Proceedings of the 2012 ACM conference on Computer and
+  communications security}, pages 217--228. ACM, 2012.
+
+\bibitem{aziz2012android}
+Benjamin Aziz and Mario Tejedor-Gonzalez.
+\newblock An android pgp manager: towards bridging end-user cryptography to
+  smart phones.
+\newblock {\em International Journal of Security}, 6(5), 2012.
+
+\bibitem{barrera2010methodology}
+David Barrera, H~G{\"u}ne{\c{s}} Kayacik, Paul~C van Oorschot, and Anil
+  Somayaji.
+\newblock A methodology for empirical analysis of permission-based security
+  models and its application to android.
+\newblock In {\em Proceedings of the 17th ACM conference on Computer and
+  communications security}, pages 73--84. ACM, 2010.
+
+\bibitem{beth1994valuation}
+Thomas Beth, Malte Borcherding, and Birgit Klein.
+\newblock Valuation of trust in open networks.
+\newblock In {\em European Symposium on Research in Computer Security}, pages
+  1--18. Springer, 1994.
+
+\bibitem{buchanan2007development}
+Tom Buchanan, Carina Paine, Adam~N Joinson, and Ulf-Dietrich Reips.
+\newblock Development of measures of online privacy concern and protection for
+  use on the internet.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 58(2):157--165, 2007.
+
+\bibitem{bugiel2013flexible}
+Sven Bugiel, Stephan Heuser, and Ahmad-Reza Sadeghi.
+\newblock Flexible and fine-grained mandatory access control on android for
+  diverse security and privacy policies.
+\newblock In {\em Usenix security}, pages 131--146, 2013.
+
+\bibitem{f}
+Windows~Dev Center.
+\newblock Msdn, the app certification process.
+\newblock
+  \url{https://msdn.microsoft.com/en-us/windows/uwp/publish/the-app-certification-process}.
+
+\bibitem{chan2012droidchecker}
+Patrick~PF Chan, Lucas~CK Hui, and Siu-Ming Yiu.
+\newblock Droidchecker: analyzing android applications for capability leak.
+\newblock In {\em Proceedings of the fifth ACM conference on Security and
+  Privacy in Wireless and Mobile Networks}, pages 125--136. ACM, 2012.
+
+\bibitem{davi2010privilege}
+Lucas Davi, Alexandra Dmitrienko, Ahmad-Reza Sadeghi, and Marcel Winandy.
+\newblock Privilege escalation attacks on android.
+\newblock In {\em Information Security}, pages 346--360. Springer, 2010.
+
+\bibitem{delhey2011general}
+Jan Delhey, Kenneth Newton, and Christian Welzel.
+\newblock How general is trust in “most people”? solving the radius of
+  trust problem.
+\newblock {\em American Sociological Review}, 76(5):786--807, 2011.
+
+\bibitem{k}
+Android Developers.
+\newblock Android developers: Dashboards.
+\newblock \url{http://developer.android.com/about/dashboards/index.html}.
+
+\bibitem{g}
+Android Developers.
+\newblock Publishing overview.
+\newblock
+  \url{http://developer.android.com/tools/publishing/publishing_overview.html}.
+
+\bibitem{androdashboard}
+Android Developers.
+\newblock Android dashboards.
+\newblock \url{https://developer.android.com/about/dashboards/index.html},
+  2016.
+
+\bibitem{enck2014taintdroid}
+William Enck, Peter Gilbert, Seungyeop Han, Vasant Tendulkar, Byung-Gon Chun,
+  Landon~P Cox, Jaeyeon Jung, Patrick McDaniel, and Anmol~N Sheth.
+\newblock Taintdroid: an information-flow tracking system for realtime privacy
+  monitoring on smartphones.
+\newblock {\em ACM Transactions on Computer Systems (TOCS)}, 32(2):5, 2014.
+
+\bibitem{enck2009understanding}
+William Enck, Machigar Ongtang, and Patrick McDaniel.
+\newblock Understanding android security.
+\newblock {\em IEEE security \& privacy}, (1):50--57, 2009.
+
+\bibitem{d}
+Patrick Feisthammel.
+\newblock Pgp: Explanation of the web of trust of pgp.
+\newblock \url{https://www.rubin.ch/pgp/weboftrust.en.html}, 2004.
+
+\bibitem{felt2011android}
+Adrienne~Porter Felt, Erika Chin, Steve Hanna, Dawn Song, and David Wagner.
+\newblock Android permissions demystified.
+\newblock In {\em Proceedings of the 18th ACM conference on Computer and
+  communications security}, pages 627--638. ACM, 2011.
+
+\bibitem{felt2011effectiveness}
+Adrienne~Porter Felt, Kate Greenwood, and David Wagner.
+\newblock The effectiveness of application permissions.
+\newblock In {\em Proceedings of the 2nd USENIX conference on Web application
+  development}, pages 7--7, 2011.
+
+\bibitem{felt2012android}
+Adrienne~Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin, and
+  David Wagner.
+\newblock Android permissions: User attention, comprehension, and behavior.
+\newblock In {\em Proceedings of the Eighth Symposium on Usable Privacy and
+  Security}, page~3. ACM, 2012.
+
+\bibitem{gilbert2011vision}
+Peter Gilbert, Byung-Gon Chun, Landon~P Cox, and Jaeyeon Jung.
+\newblock Vision: automated security validation of mobile apps at app markets.
+\newblock In {\em Proceedings of the second international workshop on Mobile
+  cloud computing and services}, pages 21--26. ACM, 2011.
+
+\bibitem{golbeck2006generating}
+Jennifer Golbeck.
+\newblock Generating predictive movie recommendations from trust in social
+  networks.
+\newblock In {\em International Conference on Trust Management}, pages 93--104.
+  Springer, 2006.
+
+\bibitem{grace2011detecting}
+Michael Grace, Yajin Zhou, Zhi Wang, and Xuxian Jiang.
+\newblock Detecting capability leaks in android-based smartphones.
+\newblock Technical report, Technical Report North Carolina State University,
+  2011.
+
+\bibitem{grace2012systematic}
+Michael~C Grace, Yajin Zhou, Zhi Wang, and Xuxian Jiang.
+\newblock Systematic detection of capability leaks in stock android
+  smartphones.
+\newblock In {\em NDSS}, 2012.
+
+\bibitem{guha2004propagation}
+Ramanthan Guha, Ravi Kumar, Prabhakar Raghavan, and Andrew Tomkins.
+\newblock Propagation of trust and distrust.
+\newblock In {\em Proceedings of the 13th international conference on World
+  Wide Web}, pages 403--412. ACM, 2004.
+
+\bibitem{harbach2014using}
+Marian Harbach, Markus Hettig, Susanne Weber, and Matthew Smith.
+\newblock Using personal examples to improve risk communication for security \&
+  privacy decisions.
+\newblock In {\em Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems}, pages 2647--2656. ACM, 2014.
+
+\bibitem{hornyack2011these}
+Peter Hornyack, Seungyeop Han, Jaeyeon Jung, Stuart Schechter, and David
+  Wetherall.
+\newblock These aren't the droids you're looking for: retrofitting android to
+  protect data from imperious applications.
+\newblock In {\em Proceedings of the 18th ACM conference on Computer and
+  communications security}, pages 639--652. ACM, 2011.
+
+\bibitem{e}
+Apple Inc.
+\newblock ios developer library-app distribution guide.
+\newblock
+  \url{https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/SubmittingYourApp/SubmittingYourApp.html}.
+
+\bibitem{kee1970conceptual}
+Herbert~W Kee and Robert~E Knox.
+\newblock Conceptual and methodological considerations in the study of trust
+  and suspicion.
+\newblock {\em Journal of Conflict Resolution}, pages 357--366, 1970.
+
+\bibitem{kelley2012conundrum}
+Patrick~Gage Kelley, Sunny Consolvo, Lorrie~Faith Cranor, Jaeyeon Jung, Norman
+  Sadeh, and David Wetherall.
+\newblock A conundrum of permissions: installing applications on an android
+  smartphone.
+\newblock In {\em Financial Cryptography and Data Security}, pages 68--79.
+  Springer, 2012.
+
+\bibitem{kelley2013privacy}
+Patrick~Gage Kelley, Lorrie~Faith Cranor, and Norman Sadeh.
+\newblock Privacy as part of the app decision-making process.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 3393--3402. ACM, 2013.
+
+\bibitem{j}
+Alex Kinsella.
+\newblock How to submit your apps for blackberry 10.
+\newblock
+  \url{http://devblog.blackberry.com/2012/10/submit-apps-blackberry-10/l}.
+
+\bibitem{lin2014modeling}
+Jialiu Lin, Bin Liu, Norman Sadeh, and Jason~I Hong.
+\newblock Modeling users’ mobile app privacy preferences: Restoring usability
+  in a sea of permission settings.
+\newblock In {\em Symposium On Usable Privacy and Security (SOUPS 2014)}, pages
+  199--212, 2014.
+
+\bibitem{massa2004trust}
+Paolo Massa and Paolo Avesani.
+\newblock Trust-aware collaborative filtering for recommender systems.
+\newblock In {\em OTM Confederated International Conferences" On the Move to
+  Meaningful Internet Systems"}, pages 492--508. Springer, 2004.
+
+\bibitem{mcdaniel2012bloatware}
+Patrick McDaniel.
+\newblock Bloatware comes to the smartphone.
+\newblock {\em IEEE Security \& Privacy}, (4):85--87, 2012.
+
+\bibitem{mcknight1996meanings}
+D~Harrison McKnight and Norman~L Chervany.
+\newblock The meanings of trust.
+\newblock 1996.
+
+\bibitem{meshram2014survey}
+PD~Meshram and RC~Thool.
+\newblock A survey paper on vulnerabilities in android os and security of
+  android devices.
+\newblock In {\em Wireless Computing and Networking (GCWCN), 2014 IEEE Global
+  Conference on}, pages 174--178. IEEE, 2014.
+
+\bibitem{aa}
+T.~Moynihan.
+\newblock Wired: Apps snoop on your location way more than you think.
+\newblock \url{http://www.wired.com/2015/03/apps-snoop-location-way-think/},
+  2015.
+
+\bibitem{u}
+P.~Nickinson.
+\newblock Android central: Rovio explains new permissions in angrybirds seasons
+  update.
+\newblock
+  \url{http://www.androidcentral.com/rovio-explains-newpermissions-angry-birds-seasons-update},
+  2014.
+
+\bibitem{nissenbaum2004privacy}
+Helen Nissenbaum.
+\newblock Privacy as contextual integrity.
+\newblock {\em Wash. L. Rev.}, 79:119, 2004.
+
+\bibitem{ortega2012propagation}
+F~Javier Ortega, Jos{\'e}~A Troyano, Ferm{\'\i}N~L Cruz, Carlos~G Vallejo, and
+  Fernando Enr{\'\i}Quez.
+\newblock Propagation of trust and distrust for the detection of trolls in a
+  social network.
+\newblock {\em Computer Networks}, 56(12):2884--2895, 2012.
+
+\bibitem{page1999pagerank}
+Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd.
+\newblock The pagerank citation ranking: bringing order to the web.
+\newblock 1999.
+
+\bibitem{w}
+A.~Russakovskii.
+\newblock Rovio explains why the sms permission was introduced in angry birds
+  v1.5.1.
+\newblock
+  \url{http://www.androidpolice.com/2011/02/06/rovio-explainswhy-the-sms-permission-was-introduced-in-angry-birds-v1-5-1/},
+  2011.
+
+\bibitem{sabater2002reputation}
+Jordi Sabater and Carles Sierra.
+\newblock Reputation and social network analysis in multi-agent systems.
+\newblock In {\em Proceedings of the first international joint conference on
+  Autonomous agents and multiagent systems: part 1}, pages 475--482. ACM, 2002.
+
+\bibitem{saint201050}
+N~Saint.
+\newblock 50\% of android apps with internet access that ask for your location
+  send it to advertisers, 2010.
+
+\bibitem{schneider2004least}
+Fred~B Schneider.
+\newblock Least privilege and more.
+\newblock In {\em Computer Systems}, pages 253--258. Springer, 2004.
+
+\bibitem{sherchan2013survey}
+Wanita Sherchan, Surya Nepal, and Cecile Paris.
+\newblock A survey of trust in social networks.
+\newblock {\em ACM Computing Surveys (CSUR)}, 45(4):47, 2013.
+
+\bibitem{flowchartimage}
+Mobile Siri.
+\newblock
+  \url{http://mobilesiri.com/how-to-request-android-runtime-permissions/},
+  2016.
+
+\bibitem{spreitzenbarth2013mobile}
+Michael Spreitzenbarth, Felix Freiling, Florian Echtler, Thomas Schreck, and
+  Johannes Hoffmann.
+\newblock Mobile-sandbox: having a deeper look into android applications.
+\newblock In {\em Proceedings of the 28th Annual ACM Symposium on Applied
+  Computing}, pages 1808--1815. ACM, 2013.
+
+\bibitem{mil}
+Statistica.
+\newblock Number of apps available in leading app stores as at july 2015.
+\newblock
+  \url{http://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/},
+  2016.
+
+\bibitem{stevens2009computer}
+Gunnar Stevens and Volker Wulf.
+\newblock Computer-supported access control.
+\newblock {\em ACM Transactions on Computer-Human Interaction (TOCHI)},
+  16(3):12, 2009.
+
+\bibitem{stevens2013asking}
+Ryan Stevens, Jonathan Ganz, Vladimir Filkov, Premkumar Devanbu, and Hao Chen.
+\newblock Asking for (and about) permissions used by android apps.
+\newblock In {\em Proceedings of the 10th Working Conference on Mining Software
+  Repositories}, pages 31--40. IEEE Press, 2013.
+
+\bibitem{sun2008defense}
+Yan Sun, Zhu Han, and KJ~Ray Liu.
+\newblock Defense of trust management vulnerabilities in distributed networks.
+\newblock {\em IEEE Communications Magazine}, 46(2):112--119, 2008.
+
+\bibitem{vidas2011curbing}
+Timothy Vidas, Nicolas Christin, and Lorrie Cranor.
+\newblock Curbing android permission creep.
+\newblock In {\em Proceedings of the Web}, volume~2, pages 91--96, 2011.
+
+\bibitem{wei2012permission}
+Xuetao Wei, Lorenzo Gomez, Iulian Neamtiu, and Michalis Faloutsos.
+\newblock Permission evolution in the android ecosystem.
+\newblock In {\em Proceedings of the 28th Annual Computer Security Applications
+  Conference}, pages 31--40. ACM, 2012.
+
+\bibitem{wijesekera2015android}
+Primal Wijesekera, Arjun Baokar, Ashkan Hosseini, Serge Egelman, David Wagner,
+  and Konstantin Beznosov.
+\newblock Android permissions remystified: a field study on contextual
+  integrity.
+\newblock In {\em 24th USENIX Security Symposium (USENIX Security 15)}, pages
+  499--514, 2015.
+
+\bibitem{wu2006propagating}
+Baoning Wu, Vinay Goel, and Brian~D Davison.
+\newblock Propagating trust and distrust to demote web spam.
+\newblock {\em MTW}, 190, 2006.
+
+\bibitem{yang2014intentfuzzer}
+Kun Yang, Jianwei Zhuge, Yongke Wang, Lujue Zhou, and Haixin Duan.
+\newblock Intentfuzzer: detecting capability leaks of android applications.
+\newblock In {\em Proceedings of the 9th ACM symposium on Information, computer
+  and communications security}, pages 531--536. ACM, 2014.
+
+\bibitem{yu2000social}
+Bin Yu and Munindar~P Singh.
+\newblock A social mechanism of reputation management in electronic
+  communities.
+\newblock In {\em International Workshop on Cooperative Information Agents},
+  pages 154--165. Springer, 2000.
+
+\bibitem{yu2002evidential}
+Bin Yu and Munindar~P Singh.
+\newblock An evidential model of distributed reputation management.
+\newblock In {\em Proceedings of the first international joint conference on
+  Autonomous agents and multiagent systems: part 1}, pages 294--301. ACM, 2002.
+
+\bibitem{zhang2016life}
+Xiao Zhang, Kailiang Ying, Yousra Aafer, Zhenshen Qiu, and Wenliang Du.
+\newblock Life after app uninstallation: Are the data still alive? data residue
+  attacks on android.
+\newblock 2016.
+
+\bibitem{zhou2012hey}
+Yajin Zhou, Zhi Wang, Wu~Zhou, and Xuxian Jiang.
+\newblock Hey, you, get off of my market: Detecting malicious apps in official
+  and alternative android markets.
+\newblock In {\em NDSS}, 2012.
+
+\bibitem{ziegler2005propagation}
+Cai-Nicolas Ziegler and Georg Lausen.
+\newblock Propagation models for trust and distrust in social networks.
+\newblock {\em Information Systems Frontiers}, 7(4-5):337--358, 2005.
+
+\end{thebibliography}
